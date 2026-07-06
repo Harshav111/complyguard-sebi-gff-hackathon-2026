@@ -115,4 +115,3 @@ src/
 ## License
 
 MIT
-# complyguard-sebi-gff-hackathon-2026
